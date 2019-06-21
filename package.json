@@ -1,0 +1,27 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "examples of how to use the jest testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biko-the-bird/jest_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biko-the-bird/jest_testing/issues"
+  },
+  "homepage": "https://github.com/biko-the-bird/jest_testing#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
